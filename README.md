@@ -1,4 +1,4 @@
-# Find My Laptop
+# Find My Laptop - [CLICK HERE TO GO TO SITE](https://toplaptop.net)
 
 Welcome to **Find My Laptop**! This web application helps users find the perfect laptop for their needs by asking a few simple questions about their budget, tasks, portability, and more. After users answer these questions, the app suggests laptops based on their preferences.
 
@@ -21,7 +21,7 @@ Welcome to **Find My Laptop**! This web application helps users find the perfect
 
 ## Live Demo
 
-Check out the live version of the project at [Live Demo Link](http://daniel-ziv.github.io).
+Check out the live version of the project at [Live Demo Link](toplaptop.net).
 
 ## Installation
 
